@@ -20,3 +20,7 @@ $ git remote add origin <fork-repoのURL>
 
 `git remote rename origin upstream`は `origin` を `upstream` に変えるコマンドである。
 
+## 特に意味のない節
+
+Golangのドキュメントは読みやすくていいかも！！
+
