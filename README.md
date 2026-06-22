@@ -22,5 +22,5 @@ $ git remote add origin <fork-repoのURL>
 
 ## 特に意味のない節
 
-Golangのドキュメントは読みやすくていいかも！！
+Golangの公式ドキュメントはわかりやすくて好きかも！！
 
